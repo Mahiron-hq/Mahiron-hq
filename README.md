@@ -10,7 +10,7 @@ My primary programming language is Rust.
 
 Have an idea? I'd be happy to take a look at it with the same enthusiasm I bring to my own projects. You can reach me on [Telegram](https://t.me/mahiron_hq).
 
-<br><br><br>
+<br><br>
 
 Привет, я Лев Бурмистров (Mahiron), open-source-разработчик и исследователь. Мне интересно разбираться в разных сторонах разработки и доводить идеи до работающего результата.
 
