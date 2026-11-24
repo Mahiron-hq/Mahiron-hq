@@ -9,8 +9,9 @@ Hi, I'm Lev Burmistrov (Mahiron), an open-source developer and researcher. I'm i
 My primary programming language is Rust.
 
 Have an idea? I'd be happy to take a look at it with the same enthusiasm I bring to my own projects. You can reach me on [Telegram](https://t.me/mahiron_hq).
-
-
+ㅤ
+ㅤ
+ㅤ
 Привет, я Лев Бурмистров (Mahiron), open-source-разработчик и исследователь. Мне интересно разбираться в разных сторонах разработки и доводить идеи до работающего результата.
 
 **Мои приоритеты:**
@@ -19,7 +20,7 @@ Have an idea? I'd be happy to take a look at it with the same enthusiasm I bring
 - Лёгкость
 - Доступность
 
-Основной язык разработки — Rust.
+Основной язык разработки - Rust.
 
 Есть идея? Буду рад посмотреть на неё с тем же энтузиазмом, что и на свои проекты. Написать мне можно в [Telegram](https://t.me/mahiron_hq).
 
