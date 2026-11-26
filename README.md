@@ -1,4 +1,4 @@
-Hi, I'm Lev Burmistrov (Mahiron), an open-source developer and researcher. I'm interested in exploring different aspects of software development and turning ideas into working solutions.
+Hi, I'm Lev Burmistrov (Mahiron), a solo open-source developer and researcher. I'm interested in exploring different aspects of software development and turning ideas into working solutions.
 
 **My priorities:**
 - Security
@@ -12,7 +12,7 @@ Have an idea? I'd be happy to take a look at it with the same enthusiasm I bring
 
 <br><br>
 
-Привет, я Лев Бурмистров (Mahiron), open-source-разработчик и исследователь. Мне интересно разбираться в разных сторонах разработки и доводить идеи до работающего результата.
+Привет, я Лев Бурмистров (Mahiron), open-source-разработчик и исследователь. Одиночка. Мне интересно разбираться в разных сторонах разработки и доводить идеи до работающего результата.
 
 **Мои приоритеты:**
 - Безопасность
